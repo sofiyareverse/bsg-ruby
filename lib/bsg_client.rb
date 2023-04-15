@@ -7,7 +7,7 @@ require_relative 'response/im-viber'
 require_relative 'response/balance'
 
 module BSG
-  ENDPOINT = 'http://api.bsg.hk'
+  ENDPOINT = 'http://api.bsg.world'
 
   class Client
       attr_reader :access_key

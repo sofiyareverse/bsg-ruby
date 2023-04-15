@@ -6,5 +6,5 @@ Gem::Specification.new do |s|
   s.description = 'A wrapper around BSG REST API'
   s.authors     = ['BSG Team']
   s.files       = ['lib/bsg_client.rb'] + Dir['lib/response/*.rb']
-  s.homepage    = 'http://bsg.world'
+  s.homepage    = 'https://bsg.world'
 end

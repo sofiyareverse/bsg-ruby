@@ -1,6 +1,6 @@
 Requirements
 ------------
-- [Sign up](https://app.bsg.hk/auth/registration) for a free BSG account
+- [Sign up](https://app.bsg.world) for a free BSG account
 - Create a new `access_key` (live or test access key)
 
 Examples
